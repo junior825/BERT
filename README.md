@@ -1,2 +1,1 @@
-# BERT
-BERT_tutorial
+# 네이버 분류분석기(감정분석)을 BERT 기법으로 분석함
